@@ -1,0 +1,8 @@
+- slowly changing dimensions can be handled using surrogate keys or tracking record of the CreateDate and UpdateDate in this way 
+ if any of the column is changed/updated we will have a version or a record of it at the time of creation 
+
+
+ - Star Schema has one fact table around which many dimension tables are related this makes it eliminate redundancy and clarity
+ being one main fact table and make apart from that it is easier to implement and undrestand as well. As the Fact table mostly contains the quantitative data 
+ this make it good for performing analytics tasks. In the ecommerce the user has a clear understanding of what the data is about and it properties this makes 
+ it suitable to be in a star schema 
