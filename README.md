@@ -8,8 +8,8 @@ This project demonstrates an **end-to-end data ingestion pipeline** using **Kafk
 
 ## ⚙️ Setup Instructions
 
-- install the requirements.txt file -> 
-  ```$ pip install -r requirements.txt
+- install the requirements.txt file ->  $ pip install -r requirements.txt
+  
 
 
 ---
