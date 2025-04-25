@@ -8,7 +8,7 @@ This project demonstrates an **end-to-end data ingestion pipeline** using **Kafk
 
 ## ⚙️ Setup Instructions
 
-- install the requirements.txt file 
+- install the requirements.txt file -> 
   ```$ pip install -r requirements.txt
 
 
@@ -35,7 +35,7 @@ The star schema includes:
 - **Dimension Tables:** `DIM_CUSTOMER`, `DIM_PRODUCT`, `DIM_DATE`
 
 ### 🌟 Class Diagram
-
+![Class diagrma ](https://github.com/itsMuhammadtalha/Kafka-to-snowflake---Ecommerce-data-ingestion/blob/master/starschema-ecommerce.drawio.png)
 
 
 
